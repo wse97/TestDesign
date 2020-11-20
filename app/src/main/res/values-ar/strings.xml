@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Design</string>
+    <string name="crate_new_account">انشاء حساب</string>
+    <string name="type_account">نوع المستخدم</string>
+    <string name="user_account">حساب يوزر</string>
+    <string name="driver_account">حساب سائق</string>
+    <string name="select_type_account">اختار نوع الحساب</string>
+    <string name="mr">Mr</string>
+    <string name="mrs">Mrs</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="next">التالي</string>
+    <string name="select_city_from">اختار المدينة من</string>
+    <string name="info">معلومات</string>
+    <string name="opened">مفتوح</string>
+    <string name="order_cost">تكلفى الطلب : </string>
+    <string name="cash">الدفع نقدي</string>
+    <string name="refused">رفض</string>
+    <string name="accept_order">قبول الطلب</string>
+    <string name="name">وسيم برزق</string>
+    <string name="price">50 ريال</string>
+    <string name="trips">المشاوير</string>
+    <string name="news">الجديدة</string>
+    <string name="current">الحالية</string>
+    <string name="completed">المكتملة</string>
+    <string name="home">الرئيسية</string>
+    <string name="wallet">المحفظة</string>
+    <string name="account">الحساب</string>
+    <string name="candy">الحلويـات</string>
+    <string name="products">المنتجات : 55</string>
+    <string name="order_now">إتمام الطلب</string>
+</resources>

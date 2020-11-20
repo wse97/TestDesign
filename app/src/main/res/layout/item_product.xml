@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_width="83dp"
+        android:layout_height="83dp"
+        android:padding="4dp"
+        android:id="@+id/imageProduct"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/white"
+        android:src="@drawable/image_burger"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textProductName"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_toEndOf="@+id/imageProduct"
+        android:layout_marginTop="32dp"
+        android:text="برجر إيطالي حجم كبير"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textPrice"
+            android:textSize="14sp"
+            android:text="15.50 ريال"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/textProductName"
+            android:layout_toEndOf="@+id/imageProduct"
+            android:textColor="@color/colorRed"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="8dp"
+            android:layout_below="@+id/textProductName"
+            android:layout_toEndOf="@+id/textPrice"
+            android:background="@drawable/shape_discount"
+            android:textSize="9sp"
+            android:text="%خصم 50"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_plus"
+        android:layout_below="@+id/textProductName"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        />
+</RelativeLayout>
