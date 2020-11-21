@@ -39,6 +39,9 @@ dependencies {
     //Statusbarutil
     implementation 'com.jaeger.statusbarutil:library:1.5.1'
 
+    //Power Spinner
+    implementation "com.github.skydoves:powerspinner:1.1.5"
+
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'

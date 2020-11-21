@@ -122,4 +122,11 @@
     <string name="candy">Candy</string>
     <string name="products">products : 55</string>
     <string name="order_now">Order Now</string>
+
+    <string-array name="city">
+        <item>palestine</item>
+        <item>palestine</item>
+        <item>palestine</item>
+        <item>palestine</item>
+    </string-array>
 </resources>

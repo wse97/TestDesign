@@ -29,4 +29,12 @@
     <string name="candy">الحلويـات</string>
     <string name="products">المنتجات : 55</string>
     <string name="order_now">إتمام الطلب</string>
+
+    <string-array name="city">
+        <item>فلسطين</item>
+        <item>فلسطين</item>
+        <item>فلسطين</item>
+        <item>فلسطين</item>
+    </string-array>
+
 </resources>

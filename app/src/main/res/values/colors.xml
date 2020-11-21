@@ -18,5 +18,6 @@
     <color name="colorYellowDiscount">#FFC20F</color>
     <color name="colorBackground">#F7F7F7</color>
     <color name="colorTextPrice">#110028</color>
+    <color name="colorArrowSpinner">#242A37</color>
     <color name="backgroundColorUnselected">#F0F0F0</color>
 </resources>
